@@ -1,22 +1,16 @@
 ## Bienvenue
 
-You can use the [editor on GitHub](https://github.com/Jujutitine360/aori/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Vas-y viens dans mon monde
+[Voici mon lien] (https://www.youtube.com/?gl=BE&hl=fr)
 
 ### Hello
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# coucou
 ## je suis volatile
 ### Pourquoi tant de haine 
 
-- Bulleted
-- List
+Ma liste de mon monde
+- une maison
+- un sims
 
 1. Numbered
 2. List
