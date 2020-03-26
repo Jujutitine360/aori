@@ -17,6 +17,7 @@ Ma liste de mon monde
 
 **Bold** and _Italic_ and `Code` text
 
+[Mes définitions](definition.md)
 [Link](url) and ![Image](src)
 ```
 
