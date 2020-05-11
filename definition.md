@@ -5,7 +5,7 @@
 
 2. [Définition du terme "Trois Dimensions" sur wiképia](https://fr.wikipedia.org/wiki/Trois_dimensions)
 
-![wikipédia définition](/image/2020-05-11(1).png)
+![image](images/2020-05-11(1).png)
 
 
 
