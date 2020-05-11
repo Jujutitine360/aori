@@ -4,7 +4,7 @@
 
 ![image](images/definitionimprimante.png)
 
-2. [Définition du terme "Trois Dimensions" sur wiképia](https://fr.wikipedia.org/wiki/Trois_dimensions)
+2. [Définition du terme "Trois Dimensions" sur wikipédia](https://fr.wikipedia.org/wiki/Trois_dimensions)
 
 ![image](images/troisdimensions.png)
 
