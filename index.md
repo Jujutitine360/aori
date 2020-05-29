@@ -15,7 +15,7 @@ Quelques ressources :
 
 ## Composition
 
-[Composition d'une imprimante](composition.md)
+[Composition d'une imprimante](composition 3d materiel.md)
 
 
 ## Comment ça fonctionne ?
