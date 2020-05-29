@@ -15,6 +15,8 @@ Quelques ressources :
 
 ## Composition
 
+[Composition d'une imprimante](composition.md)
+
 
 ## Comment ça fonctionne ?
 
