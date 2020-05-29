@@ -2,6 +2,7 @@
 
 1. [Définition du terme "imprimante" sur Reverso](https://dictionary.reverso.net/french-definition/Imprimante)
 
+
 ![image](images/definitionimprimante.png)
 
 2. [Définition du terme "Trois Dimensions" sur wikipédia](https://fr.wikipedia.org/wiki/Trois_dimensions)
