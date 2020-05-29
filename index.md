@@ -17,10 +17,11 @@ Quelques ressources :
 
 [Composition d'une imprimante](composition3dmatériel.md)
 
-
 ## Comment ça fonctionne ?
+
+[Fonctionnement](commentçafonctionne.md)
 
 ## Succès 
 
-## Test Achat
+## Tests
 
