@@ -1,8 +1,9 @@
 # Composition
 
-## L'interieur de l'imprimante
+[Site internet PRIMANTE3D](http://www.primante3d.com)
 
-### Matériaux
 
-[Site internet primante3d](http://www.primante3d.com/materiaux/)
+[Schémas imprimante 3D](https://sites.google.com/site/espace3dfr/3dprinter)
 
+
+[Matériaux à avoir pour imprimer](http://www.primante3d.com/materiaux/)
