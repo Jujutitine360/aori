@@ -1,4 +1,4 @@
-### L'imprimante 3D
+# L'imprimante 3D
 
 Bienvenue sur mon site sur les imprimantes 3D.
 
@@ -8,7 +8,17 @@ Quelques ressources :
 
 [Des photos d'imprimantes 3D](https://www.ecosia.org/images?q=Imprimantes+3D#id=)
 
-### Historique
+## Historique
 [Page Wikipédia](https://fr.wikipedia.org/wiki/Impression_3D)
 
 [Mes définitions](definition.md)
+
+## Composition
+
+
+## Comment ça fonctionne ?
+
+## Succès 
+
+## Test Achat
+
