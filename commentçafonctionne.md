@@ -1,7 +1,7 @@
 # Fonctionnement
 
 1. [Comment ça marche ?](http://www.primante3d.com/principe/)
-![image]
+![image](images/3dcommentçamarche.png)
 
 2. [Comment créer un fichier pour son imprimante 3D ?](http://www.primante3d.com/modeliser/)
 ![image]
