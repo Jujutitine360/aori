@@ -13,15 +13,17 @@ Quelques ressources :
 
 [Mes définitions](definition.md)
 
-## Composition
+## Infos pratiques
+Prix
 
 [Composition d'une imprimante](composition3dmatériel.md)
 
-## Comment ça fonctionne ?
-
-[Fonctionnement](commentçafonctionne.md)
+[Comment ça fonctionne ?](commentçafonctionne.md)
 
 ## Succès 
+Quelques chiffres...
+Dans quels domaines est-elle utilisée ?
 
 ## Tests
-
+Test achat
+Article imprimante test
