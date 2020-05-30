@@ -14,7 +14,8 @@ Bienvenue sur mon site sur les imprimantes 3D.
 [Mes définitions](definition.md)
 
 ## Infos pratiques
-Prix
+
+[Prix](prix.md)
 
 [Composition d'une imprimante](composition3dmatériel.md)
 
