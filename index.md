@@ -22,9 +22,11 @@ Bienvenue sur mon site sur les imprimantes 3D.
 [Comment ça fonctionne ?](commentçafonctionne.md)
 
 ## Succès 
-Quelques chiffres...
-Dans quels domaines est-elle utilisée ?
+
+Medecine
+Service à la population
 
 ## Tests
+
 Test achat
-Article imprimante test
+Démonstrations
