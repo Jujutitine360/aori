@@ -2,4 +2,8 @@
 
 1. [Quelques exemples...](http://www.monunivers3d.com/medecine/)
 
-2. [Révolution de la médecine !](https://sante.lefigaro.fr/article/des-scientifiques-ont-fabrique-un-mini-coeur-avec-une-imprimante-3d/)
+![image](images/3dactu.png)
+
+2. [Révolution de la médecine !](https://www.rtbf.be/info/regions/hainaut/detail_l-imprimante-3d-au-service-de-la-traumatologie-cranienne-a-charleroi?id=9440729)
+
+![image](images/
