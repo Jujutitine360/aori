@@ -9,22 +9,23 @@ Bienvenue sur mon site sur les imprimantes 3D.
 [Des photos d'imprimantes 3D](https://www.ecosia.org/images?q=Imprimantes+3D#id=)
 
 ## Historique
-[Page Wikipédia](https://fr.wikipedia.org/wiki/Impression_3D)
+- [Page Wikipédia](https://fr.wikipedia.org/wiki/Impression_3D)
 
-[Mes définitions](definition.md)
+- [Mes définitions](definition.md)
 
 ## Infos pratiques
 
-[Prix](prix.md)
+- [Prix](prix.md)
 
-[Composition d'une imprimante](composition3dmatériel.md)
+- [Composition d'une imprimante](composition3dmatériel.md)
 
-[Comment ça fonctionne ?](commentçafonctionne.md)
+- [Comment ça fonctionne ?](commentçafonctionne.md)
 
 ## Succès 
 
-Medecine
-Service à la population
+- [Medecine](medecine.md)
+
+- Service à la population
 
 ## Tests
 
