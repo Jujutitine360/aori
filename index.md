@@ -29,5 +29,5 @@ Bienvenue sur mon site sur les imprimantes 3D.
 
 ## Tests
 
-Test achat
-Démonstrations
+- Test achat
+- [Démonstrations](demonstrations.md)
