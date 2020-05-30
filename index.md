@@ -23,7 +23,7 @@ Bienvenue sur mon site sur les imprimantes 3D.
 
 ## Succès 
 
-- [Medecine](medecine.md)
+- [Médecine](medecine.md)
 
 - Service à la population
 
