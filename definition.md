@@ -12,5 +12,6 @@
 
 
 3. [Définition du terme "impression 3D" sur future-science](https://www.futura-sciences.com/tech/definitions/imprimante-3d-impression-3d-15137/)
+  Définition | Impression 3D - Impression tridimensionnelle | Futura Tech [en ligne]. [s. d.]. [Consulté le 11 mai 2020]. Disponible à l’adresse : https://www.futura-sciences.com/tech/definitions/imprimante-3d-impression-3d-15137/
   
 ![image](images/impression3d.png)
