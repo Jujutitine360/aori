@@ -1,7 +1,8 @@
 # Fonctionnement
 
-1. [Comment ça marche ?](http://www.primante3d.com/principe/) //
-  Alexandre Moussion (personne physique et morale). « Comment ça marche ? ». In PRIMANTE 3D [en ligne]. [s. d.]. [Consulté le 30 mai 2020]. Disponible à l’adresse : http://www.primante3d.com/principe/
+1. [Comment ça marche ?](http://www.primante3d.com/principe/)
+//
+Alexandre Moussion (personne physique et morale). « Comment ça marche ? ». In PRIMANTE 3D [en ligne]. [s. d.]. [Consulté le 30 mai 2020]. Disponible à l’adresse : http://www.primante3d.com/principe/
 
 ![image](images/3dcommentçamarche.png)
 
