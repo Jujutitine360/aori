@@ -10,8 +10,6 @@ Bienvenue sur mon site sur les imprimantes 3D.
 
 - [Site internet PRIMANTE3D](http://www.primante3d.com)
 
-![image](images/3siteprimante.png)
-
 ## Historique
 - [Page Wikipédia](https://fr.wikipedia.org/wiki/Impression_3D)
 
