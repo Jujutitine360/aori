@@ -6,7 +6,11 @@ Bienvenue sur mon site sur les imprimantes 3D.
 
 ## Quelques ressources...
 
-[Des photos d'imprimantes 3D](https://www.ecosia.org/images?q=Imprimantes+3D#id=)
+- [Des photos d'imprimantes 3D](https://www.ecosia.org/images?q=Imprimantes+3D#id=)
+
+- [Site internet PRIMANTE3D](http://www.primante3d.com)
+
+![image](images/3siteprimante.png)
 
 ## Historique
 - [Page Wikipédia](https://fr.wikipedia.org/wiki/Impression_3D)
