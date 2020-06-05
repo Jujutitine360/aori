@@ -31,6 +31,5 @@ Bienvenue sur mon site sur les imprimantes 3D.
 
 ## Tests
 
-- [Test achat](file:///C:/Users/gooss/OneDrive/Documents/HE2B/Bloc%201/UE8%20-%20Informatique%20documentaire%20(4%20ECTS)/Travail%20fin%20année/Test%20Achat%20imprimante%203D.pdf)
-
+- [Test achat]
 - [Démonstrations](demonstrations.md)
