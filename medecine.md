@@ -1,7 +1,7 @@
 # L'imprimante 3D en médecine
 
 1. [Quelques exemples...](http://www.monunivers3d.com/medecine/)  
-Flavien Chantrel (Auteur). « Médecine Archives ». In MonUnivers3D [en ligne]. 2017 [Consulté le 30 mai 2020]. Disponible à l’adresse : http://www.monunivers3d.com/medecine/
+Flavien Chantrel (auteur). « Médecine Archives ». In MonUnivers3D [en ligne]. 2017 [Consulté le 30 mai 2020]. Disponible à l’adresse : http://www.monunivers3d.com/medecine/
   
 ![image](images/3dactu.png)
 
