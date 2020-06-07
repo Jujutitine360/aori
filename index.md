@@ -1,6 +1,9 @@
 # L'imprimante 3D
 
-Bienvenue sur mon site sur les imprimantes 3D.
+Bienvenue sur mon site sur les imprimantes 3D.  
+Sur ce site vous retrouverez les points importants qui aborderont le sujet manières différentes.  
+De l'historique, à quelques démonstrations, en passant part des informations pratiques, vous y trouverez des liens et documents pertinents, et fiables, qui vous aideront dans vos travaux et présentations sur cette tecnologie qui est l'imprimante 3D.  
+Bonne lecture...
 
 ![Photo imprimante 3D](https://user-images.githubusercontent.com/62696199/78220931-b9542b80-74c2-11ea-9645-de4a6b20e314.jpg)
 
