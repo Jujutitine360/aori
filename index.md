@@ -1,7 +1,7 @@
 # L'imprimante 3D
 
 _Bienvenue !  
-Sur ce site vous retrouverez les points importants qui aborderont le sujet manières différentes.  
+Sur ce site vous retrouverez les points importants qui aborderont le sujet de manières différentes.  
 De l'historique, à quelques démonstrations, en passant part des informations pratiques, vous y trouverez des liens et documents pertinents, et fiables, qui vous aideront dans vos travaux et présentations sur cette tecnologie qui est l'imprimante 3D.  
 Bonne lecture..._
 
@@ -13,10 +13,13 @@ Bonne lecture..._
 
 - [Site internet PRIMANTE3D](http://www.primante3d.com)
 
+- [Mes définitions](definition.md)
+
 ## Historique
+
 - [Page Wikipédia](https://fr.wikipedia.org/wiki/Impression_3D)
 
-- [Mes définitions](definition.md)
+- [Mon univers 3D](http://www.monunivers3d.com/guide/histoire/)
 
 ## Infos pratiques
 
